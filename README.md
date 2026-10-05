@@ -49,7 +49,7 @@ docker --version
 ```
 1. Clone repository นี้
 ```bash
-git clone [https://github.com/FayOsaka/SDU-HealthCare.git]
+git clone https://github.com/FayOsaka/SDU-HealthCare.git
 ```
 2. เข้าสู่โฟลเดอร์โปรเจกต์
 ```bash
@@ -57,7 +57,7 @@ cd SUD-Healthcare
 ```
 3. ติดตั้ง Dependencies ที่จำเป็น
 ```bash
-pip install -r requirements.txt
+pip install 
 ```
 
 ---
